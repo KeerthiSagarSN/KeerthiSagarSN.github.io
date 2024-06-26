@@ -7,7 +7,7 @@ author: "Keerthi Sagar"
 categories: research
 authors: "XXX"
 venue: "ArXiv Dec"
-paper: "https://arxiv.org/pdf/2312.09190"
+paper: "https://arxiv.org/pdf/xxx.pdf"
 webpage: https://model-based-plugging.github.io/
 code: https://colab.research.google.com/
 ---
