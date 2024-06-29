@@ -10,4 +10,4 @@ venue: Journal of Intelligent Manufacturing
 paper: https://link.springer.com/article/10.1007/s10845-019-01479-8
 code: https://github.com/KeerthiSagarSN/Head-CSP
 ---
-Novel planner is proposed which do path planning for the heads of the robotic fixturing agents. The environment of the problem is modeled as a Markov Decision Problem. The first planner uses the Value Iteration and Policy Iteration (PI) algorithms individually and the second planner performs the Monte Carlo control reinforcement learning.The method is compared against existing constrained satifsfaction problem (CSP) methodology. The provided code presents the CSP formulation developed for the fixturing robotic agents. 
+Markov decision based planner for path planning triangular heads of the robotic fixturing agents. The method is compared against existing constrained satifsfaction problem (CSP) methodology. The code presents the CSP formulation developed for the fixturing robotic agents. 
