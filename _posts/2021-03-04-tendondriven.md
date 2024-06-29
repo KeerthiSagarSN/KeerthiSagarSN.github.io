@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Vishal Ramadoss, <strong> Keerthi Sagar (Equal first-author contribution)</strong>, Mohamed Sadiq Ikbal, Dimiter Zlatanov, and Matteo Zoppi"
+title:  "Modeling and Stiffness Evaluation Of Tendon-Driven Robot For Collaborative Human-Robot Interaction"
 date:   2021-03-04 09:09:09 +00:00
 image:  /images/unified.png
-author: "<strong>Keerthi Sagar</strong>, Luis de Leonardo, Rezia Molfino, Teresa Zielińska, Cezary Zieliński, Dimiter Zlatanov, Matteo Zoppi"
+author: "Vishal Ramadoss, <strong> Keerthi Sagar (Equal first-author contribution)</strong>, Mohamed Sadiq Ikbal, Dimiter Zlatanov, and Matteo Zoppi"
 categories: research
-authors: "<strong>Keerthi Sagar</strong>, Luis de Leonardo, Rezia Molfino, Teresa Zielińska, Cezary Zieliński, Dimiter Zlatanov, Matteo Zoppi"
+authors: "Vishal Ramadoss, <strong> Keerthi Sagar (Equal first-author contribution)</strong>, Mohamed Sadiq Ikbal, Dimiter Zlatanov, and Matteo Zoppi"
 venue: IEEE International Conference on Intelligence and Safety for Robotics (ISR)
 paper: https://ieeexplore.ieee.org/abstract/document/9419387
 code: https://github.com/KeerthiSagarSN/Force-Polytope-Evaluation-for-Tendon-Driven-Serial-Kinematic-Chain
