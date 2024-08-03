@@ -4,7 +4,7 @@ title:  "Tactile human-robot collaborative robot gripper for windshield inspecti
 date:   2024-08-23 09:09:09 +00:00
 image:  /images/unified.png
 author: "Francesco Grella, <strong>Keerthi Sagar</strong>, Roberto Canale, Michal Jilich, Alessandro Albini, Gorgio Cannata, Matteo Zoppi"
-categories: academia
+categories: research
 authors: "Francesco Grella, <strong>Keerthi Sagar</strong>, Roberto Canale, Michal Jilich, Alessandro Albini, Gorgio Cannata, Matteo Zoppi"
 venue: Human-Robot Collaboration: Unlocking the potential for industrial applications,2023
 paper: https://digital-library.theiet.org/content/books/10.1049/pbce134e_ch7
