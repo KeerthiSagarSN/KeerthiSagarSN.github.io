@@ -2,7 +2,7 @@
 layout: post
 title:  "Artificial intelligence planners for multi-head path planning of SwarmItFIX agents"
 date:   2018-04-27 09:00:15 +00:00
-image:  /images/unified.png
+image:  images/Headplanner_swarmitfix.png.png
 author: "Satheeshkumar Veeramani, Sreekumar Muthuswamy, <strong>Keerthi Sagar</strong> & Matteo Zoppi"
 categories: research
 authors: "Satheeshkumar Veeramani, Sreekumar Muthuswamy, <strong>Keerthi Sagar</strong> & Matteo Zoppi "
