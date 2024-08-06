@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tactile human-robot collaborative robot gripper for windshield inspection and assembly"
-date:   2024-08-23 09:09:09 +00:00
+date:   2024-08-01 09:09:09 +00:00
 image:  images/tactilehandle.png
 author: "Francesco Grella, <strong>Keerthi Sagar</strong>, Roberto Canale, Michal Jilich, Alessandro Albini, Gorgio Cannata, Matteo Zoppi"
 categories: research
