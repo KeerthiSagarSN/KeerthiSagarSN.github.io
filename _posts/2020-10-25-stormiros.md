@@ -2,7 +2,7 @@
 layout: post
 title:  " STORM: Screw Theory Toolbox For Robot Manipulator and Mechanisms"
 date:   2021-03-04 09:09:09 +00:00
-image:  /images/unified.png
+image:  /images/storm_toolbox.png
 author: "<strong>Keerthi Sagar*</strong>, Vishal Ramadoss*, Dimiter Zlatanov and Matteo Zoppi- *Equal contribution"
 categories: research
 authors: "Keerthi Sagar*, Vishal Ramadoss*, Dimiter Zlatanov and Matteo Zoppi"
