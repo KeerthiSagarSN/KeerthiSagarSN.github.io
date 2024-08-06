@@ -2,7 +2,7 @@
 layout: post
 title:  "Modeling and Stiffness Evaluation Of Tendon-Driven Robot For Collaborative Human-Robot Interaction"
 date:   2021-03-04 09:09:09 +00:00
-image:  /images/unified.png
+image:  images/tendondrivenrobot.png
 author: "Vishal Ramadoss, <strong> Keerthi Sagar (Equal first-author contribution)</strong>, Mohamed Sadiq Ikbal, Dimiter Zlatanov, and Matteo Zoppi"
 categories: research
 authors: "Vishal Ramadoss, <strong> Keerthi Sagar (Equal first-author contribution)</strong>, Mohamed Sadiq Ikbal, Dimiter Zlatanov, and Matteo Zoppi"
