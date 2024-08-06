@@ -2,7 +2,7 @@
 layout: post
 title:  "5G Use-case demonstration using Telerobotics"
 date:   2023-02-21 09:09:09 +00:00
-image:  /images/unified.png
+image:  /images/5Gvodafone.png
 author: "<strong>Keerthi Sagar</strong>"
 categories: industry
 authors: "<strong>Keerthi Sagar</strong>"
