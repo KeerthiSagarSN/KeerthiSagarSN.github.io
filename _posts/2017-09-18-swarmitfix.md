@@ -2,7 +2,7 @@
 layout: post
 title:  "The SwarmItFix Pilot"
 date:   2018-04-27 09:00:15 +00:00
-image:  /images/unified.png
+image:  /images/swarmitfixpilot.png
 author: "<strong>Keerthi Sagar</strong>, Luis de Leonardo, Rezia Molfino, Teresa Zielińska, Cezary Zieliński, Dimiter Zlatanov, Matteo Zoppi"
 categories: research
 authors: "<strong>Keerthi Sagar</strong>, Luis de Leonardo, Rezia Molfino, Teresa Zielińska, Cezary Zieliński, Dimiter Zlatanov, Matteo Zoppi"
