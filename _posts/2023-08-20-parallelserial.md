@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards High Dynamic Operations With Parallel-Serial Hybrid Robots"
 date:   2023-08-20 09:09:09 +00:00
-image:  images/hybrid_robot_ik.png
+image:  images/hybrid_robot_IK.png
 author: "<strong>Keerthi Sagar</strong>, Vishal Ramadoss, and Matteo Zoppi"
 categories: research
 authors: "<strong>Keerthi Sagar</strong>, Vishal Ramadoss, and Matteo Zoppi"
