@@ -6,9 +6,8 @@ image:  images/tactilehandle.png
 author: "Francesco Grella, <strong>Keerthi Sagar</strong>, Roberto Canale, Michal Jilich, Alessandro Albini, Gorgio Cannata, Matteo Zoppi"
 categories: research
 authors: "Francesco Grella, <strong>Keerthi Sagar</strong>, Roberto Canale, Michal Jilich, Alessandro Albini, Gorgio Cannata, Matteo Zoppi"
-venue: IET Digital Library- (Human-Robot Collaboration_- Unlocking the potential for industrial applications,2023
+venue: IET Digital Library, Human-Robot Collaboration,Unlocking the potential for industrial applications,2023
 paper: https://digital-library.theiet.org/content/books/10.1049/pbce134e_ch7
 video: https://www.youtube.com/watch?v=oQxQ01yE3lw&ab_channel=H2020CollaborateProject
 ---
-
-Work presents human and a robot are working together to easily inspect and preassemble a heavy car windshield using hand guidance using a tactile windshield gripper.
+Work presents human and a robot are working together to easily inspect and preassemble a heavy car windshield using hand guidance and a tactile windshield gripper.
