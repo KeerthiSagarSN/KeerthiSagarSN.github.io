@@ -10,6 +10,4 @@ venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS
 paper: http://ras.papercept.net/images/temp/IROS/files/2342.pdf
 video: https://www.youtube.com/watch?v=7RBPcmwLz5M
 ---
-This work presents STORM, an educational and research oriented software framework for analysis and visualization of 
-reciprocal screw systems for a class of robot manipulator and mechanisms, to help bridge the gap between theory and practice of application of screw theory in the constraint and motion analysis for
-robot mechanisms.
+This work presents STORM, an educational and research oriented software framework for constraint and motion analysis and visualization of reciprocal screw systems for a class of robot manipulator and mechanisms
