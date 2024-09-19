@@ -10,5 +10,4 @@ venue: Procedia Manufacturing
 paper: https://www.sciencedirect.com/science/article/pii/S2351978917303323
 code: https://github.com/KeerthiSagarSN/Head-CSP
 ---
-The work presents the integration and experiments with a pilot cell including a 
-traditional machine tool and an innovative robot-swarm cooperative conformable support for aircraft body panels.
+A pilot cell including a traditional machine tool and an innovative robot-swarm cooperative conformable support for aircraft body panels.
