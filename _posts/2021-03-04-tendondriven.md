@@ -11,5 +11,4 @@ paper: https://ieeexplore.ieee.org/abstract/document/9419387
 code: https://github.com/KeerthiSagarSN/Force-Polytope-Evaluation-for-Tendon-Driven-Serial-Kinematic-Chain
 video: https://www.youtube.com/watch?v=ak4Di-THA40
 ---
-The work presents the detailed mathematical analysis of the stiffness evaluation 
-of tendon-driven serial kinematic chains which allow single-point and multi-point routing with bundling per rigid link.
+Stiffness evaluation of tendon-driven serial kinematic chains which allow single-point and multi-point routing with bundling per rigid link.
