@@ -10,4 +10,4 @@ venue: IET Digital Library, Human-Robot Collaboration,Unlocking the potential fo
 paper: https://digital-library.theiet.org/content/books/10.1049/pbce134e_ch7
 video: https://www.youtube.com/watch?v=oQxQ01yE3lw&ab_channel=H2020CollaborateProject
 ---
-Work presents human and a robot are working together to easily inspect and preassemble a heavy car windshield using hand guidance and a tactile windshield gripper.
+Human-Robot collaboration to inspect and preassemble a car windshield using hand guidance and a tactile gripper.
