@@ -11,5 +11,5 @@ paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10246372
 code: https://github.com/KeerthiSagarSN/rospygradientpolytope
 video: https://www.youtube.com/watch?v=5SaUE9lQ1Pc&ab_channel=KeerthiSagar
 ---
-This work presents a polytope-based kinetostatic index that can be used to achieve complex force and velocity-targetted manipulation in both serial and parallel robots.
-The index alongside its analytical gradient can be utilized for efficient real-time control.
+A polytope-based kinetostatic index to achieve complex force and velocity-targeted manipulation in both serial and parallel robots.
+
