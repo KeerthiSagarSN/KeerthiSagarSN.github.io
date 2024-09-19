@@ -11,5 +11,4 @@ paper: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDE
 code: https://github.com/KeerthiSagarSN/Inverse_Kinematics_Exechon_3DOF
 video: https://www.youtube.com/watch?v=V-pb8RU4bpY&ab_channel=KeerthiSagar
 ---
-This work presents results on kinematic modeling, motion generation and control of a 
-parallel-serial hybrid robot architecture employed as a reconfigurable subsystem alongside serial kinematic chains for high speed machining and fixturing in aerospace application.
+Motion generation and control of a parallel-serial hybrid robot architecture for high speed machining and fixturing in aerospace application.
