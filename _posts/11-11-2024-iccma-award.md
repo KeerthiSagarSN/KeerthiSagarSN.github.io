@@ -4,7 +4,7 @@ title:  "Best Presentation Award"
 date:   2024-09-11 09:09:09 +00:00
 image:  /images/iccma_award.png
 author: "<strong>Keerthi Sagar</strong>"
-categories: awards
+categories: industry
 authors: "<strong>Keerthi Sagar</strong>, Stephen Caro, Philip Long"
 venue: IEEE International Conference on Control, Mechatronics and Automation (ICCMA, 2024), London, UK.
 webpage: https://www.iccma.org
