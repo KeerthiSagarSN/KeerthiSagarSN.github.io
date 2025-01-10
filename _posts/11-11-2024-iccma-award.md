@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Best Presentation Award   "
+title:  "Best Presentation Award"
 date:   2024-09-11 09:09:09 +00:00
 image:  /images/iccma_award.png
 author: "<strong>Keerthi Sagar</strong>"
