@@ -10,4 +10,5 @@ venue: IEEE International Conference on Control, Mechatronics and Automation (IC
 news: https://www.iccma.org
 video: 
 ---
+
 Presented work on "Direct-Collocation based Trajectory Optimization of Cable Driven Parallel Robot Using an Analytical Kinetostatic Index"  
