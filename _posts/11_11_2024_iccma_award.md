@@ -7,8 +7,7 @@ author: "<strong>Keerthi Sagar</strong>"
 categories: awards
 authors: "<strong>Keerthi Sagar, Stephen Caro, Philip Long</strong>"
 venue: IEEE International Conference on Control, Mechatronics and Automation (ICCMA, 2024), London, UK.
-news: https://www.iccma.org
-video: 
+webpage: https://www.iccma.org
 ---
 
 Presented work on "Direct-Collocation based Trajectory Optimization of Cable Driven Parallel Robot Using an Analytical Kinetostatic Index"  
