@@ -7,7 +7,7 @@ author: "<strong>PMAR Robotics</strong>"
 categories: industry
 authors: "<strong>PMAR Robotics</strong>"
 venue: Genova, Italy
-code: https://github.com/KeerthiSagarSN/Stewart_Platform_Inverse_Kinematics_RSS_Architecture
 video: https://www.youtube.com/watch?v=xWKiMC3CiSQ
+code: https://github.com/KeerthiSagarSN/Stewart_Platform_Inverse_Kinematics_RSS_Architecture
 ---
 Extensively involved the design team developing a custom 7-DOF Motion simulator for an Italian gaming company.
