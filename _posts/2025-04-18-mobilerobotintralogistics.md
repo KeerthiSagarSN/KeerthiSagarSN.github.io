@@ -10,4 +10,4 @@ venue: Irish Manufacturing Research CLG,
 code: https://github.com/KeerthiSagarSN/kmriiwa_ros2_bridge_stack
 video: https://www.youtube.com/watch?v=vAwuNtTgufc
 ---
-KMR-iiwa Mobile manipulator interacting with industrial cells to transport and assemble plastic gear-boxes
+KMR-iiwa mobile manipulator interacting with industrial cells to transport and assemble plastic gear-boxes.
